@@ -1,6 +1,7 @@
 # DP--06-40
 
 #INTRODUCTION
+
 The file contains the basic image data preprocesssing steps for increasing the OCR value 
 1. Conversion to greyscale
 2. Removing Noise
