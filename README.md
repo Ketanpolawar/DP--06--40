@@ -21,12 +21,6 @@ The file contains the basic image data preprocesssing steps for increasing the O
 | 4. | Rotation|  ![Screenshot 2024-02-19 201239](https://github.com/Ketanpolawar/DP--06-40/assets/115727322/e02430a3-bc57-407e-9161-f99f0104764c)                                                                                                                                               |
 | 5. | Resizing | ![Screenshot 2024-02-19 201128](https://github.com/Ketanpolawar/DP--06-40/assets/115727322/81de7a44-ddd8-4a31-9296-525e8e044530)    
 
-
-
- 
-
-***
-#Libraries Employeed 
 ***
 Data Set :Self generated bones dataset
 ***
