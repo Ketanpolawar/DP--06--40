@@ -29,3 +29,5 @@ The file contains the basic image data preprocesssing steps for increasing the O
 2. ca2
 3. Pillow
 4. rembg
+***
+Data Set :Self generated bones dataset
