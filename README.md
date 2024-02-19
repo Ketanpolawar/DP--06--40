@@ -21,3 +21,12 @@ The file contains the basic image data preprocesssing steps for increasing the O
 3. Data after Removing background
 
 ![Woman_Holding_Skull-732x549-thumbnail-732x549](https://github.com/Ketanpolawar/DP--06-40/assets/115727322/d6280ce8-f0f2-4ccb-950d-41f003631e4a)
+
+
+
+#Libraries Employeed 
+
+1.tensorflow 
+2.cv2
+3.pillow
+4.rembg
