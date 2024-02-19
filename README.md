@@ -3,13 +3,13 @@
 #INTRODUCTION
 ***
 The file contains the basic image data preprocesssing steps for increasing the OCR value 
-| Sr | Step |
-|:---:|:----:|
-|1.| Conversion to greyscale|
-|2.| Removing Noise|
-|3.| Removing backgroung|
-|4.|Standardise Images|
-|5.| Resize,Rescale,Rotate Images|
+| Sr | Step |library Used |
+|:---:|:----:|:-----------:|
+|1.| Conversion to greyscale|rembg,pillow|
+|2.| Removing Noise|cv2|
+|3.| Removing backgroung|cv2 |
+|4.|Standardise Images|Tensorflow |
+|5.| Resize,Rescale,Rotate Images| Tensorflow |
 ***
    #Steps
 ***
@@ -28,10 +28,6 @@ The file contains the basic image data preprocesssing steps for increasing the O
 ***
 #Libraries Employeed 
 ***
-
-1. Tensorflow
-2. cv2
-3. Pillow
-4. rembg
-***
 Data Set :Self generated bones dataset
+***
+
