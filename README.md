@@ -28,7 +28,7 @@ The file contains the basic image data preprocesssing steps for increasing the O
 ***
 
 1. Tensorflow
-2. ca2
+2. cv2
 3. Pillow
 4. rembg
 ***
