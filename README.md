@@ -26,10 +26,7 @@ The file contains the basic image data preprocesssing steps for increasing the O
 
 #Libraries Employeed 
 
-1.tensorflow 
-
-2.cv2
-
-3.pillow
-
-4.rembg
+1. Tensorflow
+2. ca2
+3. Pillow
+4. rembg
