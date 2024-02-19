@@ -11,7 +11,7 @@ The file contains the basic image data preprocesssing steps for increasing the O
 |4.|Standardise Images|Tensorflow |
 |5.| Resize,Rescale,Rotate Images| Tensorflow |
 ***
-   #Steps
+   #STEPS
 ***
 | Sr | Step | Image|
 |:---:|:----:|:----:|
