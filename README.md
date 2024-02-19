@@ -3,11 +3,13 @@
 #INTRODUCTION
 ***
 The file contains the basic image data preprocesssing steps for increasing the OCR value 
-1. Conversion to greyscale
-2. Removing Noise
-3. Removing backgroung
-4. Standardise Images
-5. Resize,Rescale,Rotate Images
+| Sr | Step |
+|:---:|:----:|
+|1.| Conversion to greyscale|
+|2.| Removing Noise|
+|3.| Removing backgroung|
+|4.|Standardise Images|
+|5.| Resize,Rescale,Rotate Images|
 ***
    #Steps
 ***
