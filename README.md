@@ -6,7 +6,7 @@ The file contains the basic image data preprocesssing steps for increasing the O
 | Sr | Step |library Used |
 |:---:|:----:|:-----------:|
 |1.| Conversion to greyscale|rembg,pillow|
-|2.| Removing Noise|cv2|
+|2.| Sharpening |cv2|
 |3.| Removing backgroung|cv2 |
 |4.|Standardise Images|Tensorflow |
 |5.| Resize,Rescale,Rotate Images| Tensorflow |
