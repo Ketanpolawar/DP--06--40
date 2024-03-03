@@ -9,7 +9,7 @@ The file contains the basic image data preprocesssing steps for increasing the O
 |2.| Sharpening |cv2|
 |3.| Removing backgroung|cv2 |
 |4.|Standardise Images|Tensorflow |
-|5.| Resize,Rescale,Rotate Images| Tensorflow |
+|5.| Resize,Rescale,Rotate Images| Pillow |
 ***
    #STEPS
 ***
@@ -22,6 +22,10 @@ The file contains the basic image data preprocesssing steps for increasing the O
 | 5. | Resizing | ![Woman_Holding_Skull-732x549-thumbnail-732x549](https://github.com/Ketanpolawar/DP--06--40/assets/115727322/91fb2bb2-69d3-469f-95fa-9f569c85bdf7)|
 | 6. | Rotate | ![Woman_Holding_Skull-732x549-thumbnail-732x549](https://github.com/Ketanpolawar/DP--06--40/assets/115727322/182aae69-d36f-43dd-8c0d-50f35a41af1c)
 |
+| 7. | Vertical |![Woman_Holding_Skull-732x549-thumbnail-732x549](https://github.com/Ketanpolawar/DP--06--40/assets/115727322/d0ba3037-2ac3-4d11-b932-23cdd2395e7d)|
+| 8. | Horizontal |![Woman_Holding_Skull-732x549-thumbnail-732x549](https://github.com/Ketanpolawar/DP--06--40/assets/115727322/08f38a25-e893-4ac5-8184-a0df3e82f8f0)
+|
+
 
 ***
 Data Set :Self generated bones dataset
