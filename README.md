@@ -9,9 +9,9 @@ Data Set :Self generated bones dataset
 | Sr | Step |library Used |
 |:---:|:----:|:-----------:|
 |1.| Conversion to greyscale|rembg,pillow|
-|2.| Sharpening |cv2|
-|3.| Removing backgroung|cv2 |
-|4.|Standardise Images|Tensorflow |
+|2.| Sharpening |pillow,enhancer|
+|3.| Removing backgroung|pilow |
+|4.|Standardise Images|pilow |
 |5.| Resize,Rescale,Rotate Images| Pillow |
 ***
    #STEPS
