@@ -3,6 +3,9 @@
 #INTRODUCTION
 ***
 The file contains the basic image data preprocesssing steps for increasing the OCR value 
+***
+Data Set :Self generated bones dataset
+***
 | Sr | Step |library Used |
 |:---:|:----:|:-----------:|
 |1.| Conversion to greyscale|rembg,pillow|
@@ -25,7 +28,5 @@ The file contains the basic image data preprocesssing steps for increasing the O
 | 8. | Horizontal |![Woman_Holding_Skull-732x549-thumbnail-732x549](https://github.com/Ketanpolawar/DP--06--40/assets/115727322/08f38a25-e893-4ac5-8184-a0df3e82f8f0)|
 
 
-***
-Data Set :Self generated bones dataset
-***
+
 
